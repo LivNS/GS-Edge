@@ -1,11 +1,11 @@
 // C++ code
 //
+//adicionando biblioteca
 #include <LiquidCrystal.h>
 LiquidCrystal LCD(12,11,5,4,3,2);
 float valor_sen=0;
 float temperatura=0;
 
-//declarando
 void setup() {
   	pinMode(8, OUTPUT);	
 	pinMode(13, OUTPUT);
@@ -16,21 +16,21 @@ void setup() {
 	LCD.begin(16,2);
 	LCD.print("-Temperatura:");
 	LCD.setCursor(0,1);
-	LCD.print("    °C       ");
+	LCD.print("    °C     ");
 }
 
 void loop() {
 	
   valor_sen = analogRead(A0); 
-  temperatura = ((((valor_sen*5.0)/1024)*1000)-500)/10;
+  temperatura = ((((valor_sen*5.0)/1024)*1000)-500)/10; //CONVERTENDO 
 
   	LCD.setCursor(0,1);
 	LCD.print(temperatura);
 	LCD.setCursor(9,1);
-  
+  //declarando as temperaturas
   	if (temperatura>=35){
   		digitalWrite(13, HIGH);
-  		digitalWrite(8,  LOW);
+  		digitalWrite(8,  LOW); //acende o led vermelho (temp irregular)
       	digitalWrite(10, HIGH);
       	digitalWrite(9, HIGH);
       	digitalWrite(7, HIGH);
