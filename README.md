@@ -17,14 +17,20 @@ https://www.tinkercad.com/things/0RYPvEObVTh
 - ``Tinkercad``
 - ``IDE arduino``
 
-# 🪩 Imagens e descrição
+# 🪩 Imagens
+<img width="910" alt="Captura de tela 2023-06-07 012252" src="https://github.com/LivNS/GS-Edge/assets/118857876/90ca1111-092f-4697-ab59-c5d424d21877">
+
 <img width="716" alt="Captura de tela 2023-06-07 011632" src="https://github.com/LivNS/GS-Edge/assets/118857876/8a3fb257-2cd1-489c-88d0-e69a442c74bf">
-- 
+
+<img width="910" alt="Captura de tela 2023-06-07 012252" src="https://github.com/LivNS/GS-Edge/assets/118857876/0900ece0-bec3-44dc-a507-37ab25057113">
 
 
 # 📱 Algumas refêrencias e inspirações para o desenvolvimento do projeto
 
+- https://allelectricproject.com/arduino-fridge-controller/
 - https://www.youtube.com/watch?v=PLookTQsP48
 - https://www.youtube.com/watch?v=UyE59p9K1fA&t=107s
 - https://www.unicef.org/brazil/comunicados-de-imprensa/relatorio-da-onu-numeros-globais-de-fome-subiram-para-cerca-de-828-milhoes-em-2021
+- https://www.hackster.io/DKARDU/how-to-make-small-refrigerator-at-home-using-arduino-1d24f5
+
 
