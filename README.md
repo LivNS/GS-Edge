@@ -22,7 +22,7 @@ https://www.tinkercad.com/things/0RYPvEObVTh
 
 <img width="716" alt="Captura de tela 2023-06-07 011632" src="https://github.com/LivNS/GS-Edge/assets/118857876/8a3fb257-2cd1-489c-88d0-e69a442c74bf">
 
-<img width="910" alt="Captura de tela 2023-06-07 012252" src="https://github.com/LivNS/GS-Edge/assets/118857876/0900ece0-bec3-44dc-a507-37ab25057113">
+<img width="669" alt="Captura de tela 2023-06-07 012235" src="https://github.com/LivNS/GS-Edge/assets/118857876/28b905d3-ba59-4a2b-bc65-0b98d8681fe2">
 
 
 # 📱 Algumas refêrencias e inspirações para o desenvolvimento do projeto
