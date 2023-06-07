@@ -33,4 +33,10 @@ https://www.tinkercad.com/things/0RYPvEObVTh
 - https://www.unicef.org/brazil/comunicados-de-imprensa/relatorio-da-onu-numeros-globais-de-fome-subiram-para-cerca-de-828-milhoes-em-2021
 - https://www.hackster.io/DKARDU/how-to-make-small-refrigerator-at-home-using-arduino-1d24f5
 
+# Desenvolverdores
+- Livia Namba Seraphim RM 97819
+- Debora da Silva Amaral RM 550412
+- Isabelle de Carvalho Cruz RM 97717
+- Gabriel Sugayama Mazza RM 99265
+- Victor Camargo Maciel RM 98384
 
