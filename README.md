@@ -36,7 +36,4 @@ https://www.tinkercad.com/things/0RYPvEObVTh
 # Desenvolverdores
 - Livia Namba Seraphim RM 97819
 - Debora da Silva Amaral RM 550412
-- Isabelle de Carvalho Cruz RM 97717
-- Gabriel Sugayama Mazza RM 99265
-- Victor Camargo Maciel RM 98384
 
